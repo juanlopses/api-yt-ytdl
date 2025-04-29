@@ -1,0 +1,17 @@
+{
+  "name": "youtube-downloader-api",
+  "version": "1.0.0",
+  "description": "API en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "@hiudyy/ytdl": "*",
+    "axios": "*",
+    "form-data": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
